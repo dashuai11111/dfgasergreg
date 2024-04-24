@@ -1,0 +1,2 @@
+def create_genesis_block():
+    return Block(data="Genesis Block", previous_hash="")
